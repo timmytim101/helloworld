@@ -1,5 +1,3 @@
-Hello World!
+Python project folders as follows:
 
-this is an amazing repository
-
-this is text i typed right in the repository
+Projects/schoolwork(master)
