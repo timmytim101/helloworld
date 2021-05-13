@@ -1,3 +1,1 @@
-Python project folders as follows:
-
-Projects/schoolwork(master)
+Open the helloworld.py will print "Hello, World!".
